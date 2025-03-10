@@ -1,0 +1,8 @@
+Implementation of Emotion Detection Through Text
+This project utilizes machine learning models to classify emotions from text input. 
+The implementation involves the following key steps:
+*Data Preprocessing
+*Feature Extraction
+*Model Training
+*Prediction and Visualization
+*Deployment
